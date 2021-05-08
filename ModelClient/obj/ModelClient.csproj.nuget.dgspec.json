@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelClient\\ModelClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelClient\\ModelClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelClient\\ModelClient.csproj",
+        "projectName": "ModelClient",
+        "projectPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelClient\\ModelClient.csproj",
+        "packagesPath": "C:\\Users\\renau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\ModelGlobal.csproj": {
+                "projectPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\ModelGlobal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\ModelGlobal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\ModelGlobal.csproj",
+        "projectName": "ModelGlobal",
+        "projectPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\ModelGlobal.csproj",
+        "packagesPath": "C:\\Users\\renau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\FormationApiCore\\ModelGlobal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\My_DotNET_ToolBoxes\\VitalTools\\VitalTools\\VitalTools.csproj": {
+                "projectPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\My_DotNET_ToolBoxes\\VitalTools\\VitalTools\\VitalTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\My_DotNET_ToolBoxes\\VitalTools\\VitalTools\\VitalTools.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\My_DotNET_ToolBoxes\\VitalTools\\VitalTools\\VitalTools.csproj",
+        "projectName": "VitalTools",
+        "projectPath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\My_DotNET_ToolBoxes\\VitalTools\\VitalTools\\VitalTools.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

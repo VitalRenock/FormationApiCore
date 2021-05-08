@@ -1,0 +1,9 @@
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\bin\Debug\netcoreapp3.1\ModelClient.deps.json
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\bin\Debug\netcoreapp3.1\ModelClient.dll
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\bin\Debug\netcoreapp3.1\ModelClient.pdb
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.AssemblyInfoInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.AssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.dll
+C:\Users\renau\OneDrive\Projets\Applications\FormationApiCore\ModelClient\obj\Debug\netcoreapp3.1\ModelClient.pdb
